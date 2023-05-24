@@ -22,18 +22,22 @@ Workload digunakan untuk menggambarkan kapasitas kerja tiap orang. Fotur ini jug
 
 ## II. Cara daftar masuk dan kerja ke Asana
 
-**1.	Akses awal**
+**1.	Langka Pertama**
 
 Cara menggunakan tool “asana” kita dapat menuju ke website asana yaitu di https://app.asana.com/ dan apabila belum memiliki akun, kita dapat membuat akun terlebih dahulu, kita juga dapat mendaftar menggunakan alamat email yang kita miliki dengan memasukkannya pada form email di bawah ini dan klik signup.
+
 **2.	Verifikasi email address**
 
 Setelah melakukan login, kita dapat melakuka verifikasi email address melalui email yang telah di daftarkan. Kita hanya perlu mengeklik “verify email address”.
+
 **3.	Setup Account**
 
 Setelah melakukan verifikasi email, kita dapat kembali menuju halaman resmi asana yaitu di app.asana.com/ID/account_setup. Selanjutnya, kita mengisi form nama pada “What’s y our full name ?” dan mengisi form password pada “Password” lalu pilih continue
+
 **4.	Mengisi primary role, bidang dan objek kerja**
 
-Setelah mengisi nama dan password, kita diharuskan untuk memilih role kita sebagai pengguna, contohnya “student”.  Role merupakan kedudukan atau bisa dikatakan sebagai status pekerjaan yang sedang kita jalani saat ini. Semisal kita adalah siswa, maka kita dapat memilih “student”.  Lalu selanjutnya kita juga harus memilih jenis pekerjaan atau lebih tepatnya mau digunakan seperti  dan untuk apa tool ini. 
+Setelah mengisi nama dan password, kita diharuskan untuk memilih role kita sebagai pengguna, contohnya “student”.  Role merupakan kedudukan atau bisa dikatakan sebagai status pekerjaan yang sedang kita jalani saat ini. Semisal kita adalah siswa, maka kita dapat memilih “student”.  Lalu selanjutnya kita juga harus memilih jenis pekerjaan atau lebih tepatnya mau digunakan seperti  dan untuk apa tool ini.
+
 **5.	Mengatur projek pertama**
 
 Setelah melakukan serangkaian tahapan, mari kita mengatur projek pertama kita. Kita akan memberikan nama pada projek pertama kita. Setelah itu, jangan lupa untuk memilih continue untuk menuju tahapan yang berikutnya.
