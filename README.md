@@ -3,7 +3,7 @@ Learning Asana Website in Project Manajement - by Ahmad Yuan Arby [19081010177]
 
 
 # Melakukan Manajemen Projek dengan Asana
-## I. Tentang Asana
+## I. Apa itu Asana tool ?
 
 Asana merupakan tool manajemen proyek yang digunakan untuk mengorganisasikan pekerjaan yang kita lakukan secara individu maupun berkelompok (dengan tim). Tool ini dibangun oleh Duston Moskovitz yang merupakan co-founder facebook dan Justin Rosenstein yang merupakan tech lead and engineering manager of facebook. MEreka merekrut para developer dari google untuk ikut membangu asana.
 Asana memiliki fitur fitur penting sebagai berikut :
