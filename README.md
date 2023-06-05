@@ -1,6 +1,6 @@
 # Asana-ProjectManajement
 Learning Asana Website in Project Manajement - by Ahmad Yuan Arby [19081010177]
-
+# Lebih lengkap ada di pdf #
 
 # Melakukan Manajemen Projek dengan Asana
 ## I. Apa itu Asana tool ?
